@@ -140,8 +140,8 @@ Aplicación de seguimiento de entrenamientos y progreso.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CristianAR7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=3B82F6&icon_color=3B82F6&count_private=true" alt="Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianAR7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=3B82F6" alt="Top Langs" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CristianAR7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=3B82F6&icon_color=3B82F6&count_private=true" alt="Stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CristianAR7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=3B82F6" alt="Top Langs" />
 
 <br/><br/>
 
