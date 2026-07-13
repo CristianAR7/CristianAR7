@@ -188,6 +188,6 @@ abierto_a:      [clientes, colaboraciones, proyectos de automatización]
 
 *"Sin adornos. Solo sistemas que funcionan."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0a0a0a&height=120&section=footer)
 
 </div>
