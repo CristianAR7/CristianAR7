@@ -8,10 +8,10 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_crial.solutions-3B82F6?style=for-the-badge&logoColor=white)](https://www.crial.solutions)
 [![Email](https://img.shields.io/badge/Email-contacto@crial.solutions-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@crial.solutions)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian_Alcaina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-LINKEDIN-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian_Alcaina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-alcaina)
 [![GitHub](https://img.shields.io/badge/GitHub-CristianAR7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CristianAR7)
 
-![Location](https://img.shields.io/badge/📍_Madrid,_España-1a1a1a?style=flat-square)
+![Location](https://img.shields.io/badge/📍_Barcelona,_España-1a1a1a?style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=CristianAR7&color=3B82F6&style=flat-square&label=Visitas)
 ![Followers](https://img.shields.io/github/followers/CristianAR7?style=flat-square&color=3B82F6&labelColor=1a1a1a)
 
@@ -90,7 +90,7 @@ Plataforma completa de captación y automatización: web pública ([crial.soluti
 | **Stack** | React 19 · Vite · Tailwind · Node.js · Express · PostgreSQL · Claude API · Twilio |
 | **Escala** | Producción real con clientes activos |
 | **Infra** | Frontend en Vercel · Backend en Railway |
-| **Impacto** | Caso real: +200% conversión de reservas para cliente del sector restauración |
+| **Impacto** | Caso real: +200% conversión de reservas para cliente del sector Organización de Viajes|
 | **Repo** | [CristianAR7/Agencia-IA](https://github.com/CristianAR7/Agencia-IA) |
 
 </details>
@@ -110,6 +110,19 @@ CRM propio para gestionar el pipeline de leads capturados por los sistemas de CR
 </details>
 
 <details>
+<summary><b>🚁 DroneBook — Marketplace de drones</b></summary>
+<br/>
+
+Web para conectar pilotos y clientes.
+
+| | |
+|---|---|
+| **Stack** | HTML · CSS · JavaScript |
+| **Repo** | [CristianAR7/DroneBook](https://github.com/CristianAR7/dronebook) |
+
+</details>
+
+<details>
 <summary><b>💪 FITTRACK — App de fitness</b></summary>
 <br/>
 
@@ -121,20 +134,6 @@ Aplicación de seguimiento de entrenamientos y progreso.
 | **Repo** | [CristianAR7/FITTRACK](https://github.com/CristianAR7/FITTRACK) |
 
 </details>
-
-<details>
-<summary><b>🚁 drone-app — Alquiler de drones</b></summary>
-<br/>
-
-App para el alquiler de drones.
-
-| | |
-|---|---|
-| **Stack** | HTML · CSS · JavaScript |
-| **Repo** | [CristianAR7/drone-app](https://github.com/CristianAR7/drone-app) |
-
-</details>
-
 ---
 
 ## 📈 GitHub Analytics
@@ -183,7 +182,7 @@ abierto_a:      [clientes, colaboraciones, proyectos de automatización]
 
 [![Web](https://img.shields.io/badge/🌐_crial.solutions-Visita_la_web-3B82F6?style=for-the-badge)](https://www.crial.solutions)
 [![Email](https://img.shields.io/badge/📧_Email-Escríbeme-0a0a0a?style=for-the-badge)](mailto:contacto@crial.solutions)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Conecta-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/TU-LINKEDIN-AQUI)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Conecta-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/cristian-alcaina)
 
 <br/>
 
