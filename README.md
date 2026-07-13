@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Cristian%20Alcaina&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CRIAL%20Solutions%20·%20Automatización%20con%20IA&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Fundador+de+CRIAL+Solutions;Automatizaci%C3%B3n+con+IA+para+negocios;Chatbots+·+WhatsApp+24%2F7+·+Agentes+de+voz;Sistemas+que+capturan+clientes+mientras+duermes" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Fundador+de+CRIAL+Solutions;Automatizaci%C3%B3n+con+IA+para+negocios;Chatbots+%C2%B7+WhatsApp+24%2F7+%C2%B7+Agentes+de+voz;Sistemas+que+capturan+clientes+mientras+duermes" alt="Typing SVG" />
 
 <br/>
 
